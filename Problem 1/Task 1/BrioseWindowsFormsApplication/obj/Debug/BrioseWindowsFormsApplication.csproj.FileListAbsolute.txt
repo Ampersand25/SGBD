@@ -1,0 +1,11 @@
+C:\Users\crist\source\repos\BrioseWindowsFormsApplication\bin\Debug\BrioseWindowsFormsApplication.exe.config
+C:\Users\crist\source\repos\BrioseWindowsFormsApplication\bin\Debug\BrioseWindowsFormsApplication.exe
+C:\Users\crist\source\repos\BrioseWindowsFormsApplication\bin\Debug\BrioseWindowsFormsApplication.pdb
+C:\Users\crist\source\repos\BrioseWindowsFormsApplication\obj\Debug\BrioseWindowsFormsApplication.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\BrioseWindowsFormsApplication\obj\Debug\BrioseWindowsFormsApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\crist\source\repos\BrioseWindowsFormsApplication\obj\Debug\BrioseWindowsFormsApplication.Properties.Resources.resources
+C:\Users\crist\source\repos\BrioseWindowsFormsApplication\obj\Debug\BrioseWindowsFormsApplication.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\BrioseWindowsFormsApplication\obj\Debug\BrioseWindowsFormsApplication.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\BrioseWindowsFormsApplication\obj\Debug\BrioseWindowsFormsApplication.exe
+C:\Users\crist\source\repos\BrioseWindowsFormsApplication\obj\Debug\BrioseWindowsFormsApplication.pdb
+C:\Users\crist\source\repos\BrioseWindowsFormsApplication\obj\Debug\BrioseWindowsFormsApplication.BrioseMasterDetailForm.resources

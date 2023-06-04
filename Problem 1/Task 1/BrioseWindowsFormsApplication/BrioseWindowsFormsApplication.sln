@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrioseWindowsFormsApplication", "BrioseWindowsFormsApplication.csproj", "{E779E221-381C-4FF7-B425-9C935F2718AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E779E221-381C-4FF7-B425-9C935F2718AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E779E221-381C-4FF7-B425-9C935F2718AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E779E221-381C-4FF7-B425-9C935F2718AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E779E221-381C-4FF7-B425-9C935F2718AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B2855B1-BE1A-400B-9755-E0975868E552}
+	EndGlobalSection
+EndGlobal
