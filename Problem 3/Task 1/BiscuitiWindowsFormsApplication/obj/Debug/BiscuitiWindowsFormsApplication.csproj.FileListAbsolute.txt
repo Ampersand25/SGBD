@@ -1,0 +1,11 @@
+C:\Users\crist\source\repos\BiscuitiWindowsFormsApplication\bin\Debug\BrioseWindowsFormsApplication.exe.config
+C:\Users\crist\source\repos\BiscuitiWindowsFormsApplication\bin\Debug\BrioseWindowsFormsApplication.exe
+C:\Users\crist\source\repos\BiscuitiWindowsFormsApplication\bin\Debug\BrioseWindowsFormsApplication.pdb
+C:\Users\crist\source\repos\BiscuitiWindowsFormsApplication\obj\Debug\BiscuitiWindowsFormsApplication.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\BiscuitiWindowsFormsApplication\obj\Debug\BiscuitiWindowsFormsApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\crist\source\repos\BiscuitiWindowsFormsApplication\obj\Debug\BiscuitiWindowsFormsApplication.BiscuitiMasterDetailForm.resources
+C:\Users\crist\source\repos\BiscuitiWindowsFormsApplication\obj\Debug\BrioseWindowsFormsApplication.Properties.Resources.resources
+C:\Users\crist\source\repos\BiscuitiWindowsFormsApplication\obj\Debug\BiscuitiWindowsFormsApplication.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\BiscuitiWindowsFormsApplication\obj\Debug\BiscuitiWindowsFormsApplication.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\BiscuitiWindowsFormsApplication\obj\Debug\BrioseWindowsFormsApplication.exe
+C:\Users\crist\source\repos\BiscuitiWindowsFormsApplication\obj\Debug\BrioseWindowsFormsApplication.pdb
